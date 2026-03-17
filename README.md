@@ -48,9 +48,9 @@ Breve descrizione del progetto.
 
 ## 📊 Statistiche GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Helmutsti&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helmutsti&layout=compact&theme=tokyonight)
 
 ---
 ## ✨ Motto
