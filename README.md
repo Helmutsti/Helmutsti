@@ -18,6 +18,18 @@ Sono un programmatore con esperienza nello sviluppo di applicazioni moderne, con
 
 ## 🛠️ Tecnologie & Strumenti
 
+### 🤖 AI
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Flux1 Krea Dev](https://img.shields.io/badge/Flux1_Krea_Dev-000000?style=for-the-badge&logo=blackforestlabs&logoColor=white)
+
+### 🧠 Strumenti AI
+
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1A1A1A?style=for-the-badge&logo=stablediffusion&logoColor=white)
+
 ### 💡 Linguaggi
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
